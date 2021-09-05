@@ -1,2 +1,2 @@
 # Research Paper Poster Competition
-# Please add your name, phoneno, emailid and topic name below this:
+# => Please add your name, phone no, email id and topic name below this:
